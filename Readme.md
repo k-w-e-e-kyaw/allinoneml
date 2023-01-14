@@ -17,6 +17,6 @@
 - 1.name နေရာ ကြိုက်ရာထားပါ
 - 2.အောက်နားက **advanced** နှိပ်ပြီး **Add Environment Variable** ထပ်နှိပ်ပါ
 - 3.key နေရာတွင် **CONFIG_FILE_URL** ဖြည့်ပါ(စာလုံးပေါင်းမှန်ရမည်)
-- 4.value နေရာတွင် အပေါ်မှ ထုတ်ယူခဲ့သော **raw.githubusercontent.………config.env** link ထည့်ပါ
+- 4.value နေရာတွင် အပေါ်မှ ထုတ်ယူခဲ့သော **https://gist.githubusercontent.………config.env** link ထည့်ပါ
 - ပြီးလျှင် အောက်ဆုံးနားက **create web service** အပြာရောင် ကို နှိပ်ပြီး ခဏေစာင့်ပါ
 - terminal box တက်လာပြီး install ပါမည်။ Bot Start စာပေါ်လာလျှင် စသုံးလို့ရပါပြီ။
