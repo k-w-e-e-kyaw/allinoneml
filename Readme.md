@@ -45,3 +45,7 @@
 
 - ✅base url Koyeb app link ဖြည့်ရပါမယ်။ group ထဲမှာမေးပါ။
 - create ပါ
+
+## Anasty, Wzml တို့တွင် /bsetting ချိန်နည်း
+
+- anasty နှင့် wzml repo များတွင် importance Vars 4 ခုသာဖြည့်ပြီး ကျန် token file, sudo user, account.zip စသဖြင့်ကို bot ထဲမှတင်လို့ရပါတယ် တင်နည်းကို [ဒီမှာကြည့်ပါ။](https://github.com/dr007bot/Allin1mltb/blob/main/bsetting.md)
