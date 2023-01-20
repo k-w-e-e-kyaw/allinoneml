@@ -2,10 +2,7 @@ name: 🎨 Allin1-Mirror
 
 on:
   workflow_dispatch:
-    inputs:
-      CONFIG_FILE_URL:
-        description: 'gist.githubusercontent.com မှ config.envနှင့်ဆုံးသောlink'
-        required: true
+    
 jobs:
   Starting:
     runs-on: ubuntu-latest
