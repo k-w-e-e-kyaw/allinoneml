@@ -1,1 +1,1 @@
-FROM anasaty17/mirror_r_k
+FROM anasaty17/allinonemltb
